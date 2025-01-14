@@ -1,6 +1,17 @@
 # Automated Capsule Endoscopy Recognition Using Transformers
 Establishing an AI model  for automated Capsule Endoscopy recognition based on Transformers
 
+![Research](https://img.shields.io/badge/Research-Medical%20AI-green.svg)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
+![PyTorch](https://img.shields.io/badge/Framework-PyTorch-red.svg)
+![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow-orange.svg)
+![Transformers](https://img.shields.io/badge/Library-Transformers-blue.svg)
+[![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue.svg)](https://www.kaggle.com/datasets/capsuleyolo/kyucapsule)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)
+
+
+
 ---
 
 ## **Table of Contents**
