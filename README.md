@@ -57,7 +57,7 @@ Capsule endoscopy (CE) is a critical diagnostic tool for identifying small bowel
    - Metrics: **Accuracy**, **Precision**, **Recall**, **F1-Score**, and **AUC**.
 
 ### Workflow Diagram
-![Workflow Diagram](Workflow_of_the_project.png)
+![Workflow Diagram](Workflow.png)
 
 ---
 
