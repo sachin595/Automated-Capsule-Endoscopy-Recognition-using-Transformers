@@ -71,7 +71,7 @@ Capsule endoscopy (CE) is a critical diagnostic tool for identifying small bowel
 | **ResNet50**          | 65.52%               | 37.03%                   | 38.00%            | 0.45          | 0.37       | 0.40         | 0.55    |
 
 ### Comparison Chart
-![Test Accuracy Comparison](Comparison_of_models.png)
+![Test Accuracy Comparison](ComparisonOfModels.png)
 
 ### Confusion Matrix
 The normalized confusion matrix highlights classification performance across 21 image categories.
