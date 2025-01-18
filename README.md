@@ -1,4 +1,4 @@
-# Automated Capsule Endoscopy Recognition Using Transformers
+# Automated Lesion Recognition in Capsule Endoscopy Using Transformers
 Establishing an AI model  for automated Capsule Endoscopy recognition based on Transformers
 
 ![Research](https://img.shields.io/badge/Research-Medical%20AI-green.svg)
